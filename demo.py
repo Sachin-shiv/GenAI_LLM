@@ -13,7 +13,7 @@ print("GPU name:", torch.cuda.get_device_name(0) if torch.cuda.is_available() el
 corpus = [
     "hello friends how are you",
     "the tea is very hot",
-    "my name is Aarohi",
+    "my name is Sachin",
     "the roads of Delhi are busy",
     "it is raining in Mumbai",
     "the train is late again",
